@@ -52,10 +52,6 @@ fun PokemonListScreen(
     }
 }
 
-interface IRefactorRules {
-    val languageOverride: String get() = "Dothraki"
-}
-
 
 
 
