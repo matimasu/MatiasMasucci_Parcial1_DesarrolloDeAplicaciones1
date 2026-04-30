@@ -1,6 +1,6 @@
 package com.example.matiasmasucci_parcial1_desarrollodeaplicaciones1.ui.theme
 
-import android.app.Activity
+
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MatiasMasucci_Parcial1_DesarrolloDeAplicaciones1Theme(
+fun MatiasMasucci_Parcial1_DesarrolloDeAplicaciones1(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
